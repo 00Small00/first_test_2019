@@ -1,0 +1,1 @@
+print([int(i) for i in range(10)])
